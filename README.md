@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my Github</h1>
+<h1 align="left">Bem Vindo ao meu Github</h1>
 
 ###
 
@@ -15,6 +15,10 @@
 ###
 
 <h2 align="left">My Skills</h2>
+
+###
+
+<p align="left">Linguagens & Frameworks</p>
 
 ###
 
@@ -53,5 +57,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/devLuisFabiano/devLuisFabiano/output/snake.svg" alt="Snake animation" />
 
 ###
