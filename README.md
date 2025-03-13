@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Formação em andamento:<br><br>Analise e Desenvolvimento de Sistemas</p>
+<p align="left">📚 Formação em andamento:<br><br>Analise e Desenvolvimento de Sistemas 1 semestre</p>
 
 ###
 
